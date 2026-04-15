@@ -1,7 +1,8 @@
 
 ## 👀 About Me
 - Backend & Infra Engineer (Korea)  
-- Tech Blog: [https://hs6488.tistory.com/](https://hs6488.tistory.com/)
+- 📘 Tech Blog: [https://hs6488.tistory.com/](https://hs6488.tistory.com/) 
+- 📧 hs6488@gmail.com
 <br/>
 
 
