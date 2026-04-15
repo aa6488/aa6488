@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitOps-F05032?style=flat-square&logo=git&logoColor=white"/>
 <br/>
+<br/>
 
 ## 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa6488)](https://github.com/anuraghazra/github-readme-stats)
